@@ -1,0 +1,46 @@
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\bin\Debug\calculator.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\obj\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\obj\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\bin\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\bin\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator - Copy\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\bin\Debug\calculator.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\obj\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\obj\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\bin\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\bin\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\calculator with dot\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\bin\Debug\calculator.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\obj\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\obj\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\bin\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\bin\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\windows form\finished projjects\calculator with dot\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
